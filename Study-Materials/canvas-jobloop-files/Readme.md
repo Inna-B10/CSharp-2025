@@ -1,5 +1,7 @@
 # 📦 archives and 🎞️ videos in folders
 
+### If .mht file after downloading opens as a blank page [(read here)](Note.md)
+
 (All videos and missing archives are stored in a private archive on GoogleDrive)
 
 📂ASP .NET Core + 📦

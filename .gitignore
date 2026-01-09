@@ -13,6 +13,7 @@
 *.userosscache
 *.sln.docstates
 **/Case 7 - Filbehandler CLI/*.gz
+**/canvas-jobloop-files/**/*.mp4
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
