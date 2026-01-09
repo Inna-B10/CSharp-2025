@@ -1,0 +1,76 @@
+GameID,Title,Genre,Platform,ReleaseYear,Publisher,GlobalSales,Rating
+1,Super Mario Bros,Platform,NES,1985,Nintendo,40.24,E
+2,Tetris,Puzzle,GB,1989,Nintendo,30.26,E
+3,Minecraft,Sandbox,PC,2011,Mojang,33.15,E10+
+4,Grand Theft Auto V,Action,PS4,2013,Rockstar Games,29.02,M
+5,Pokemon Red/Blue,RPG,GB,1996,Nintendo,31.37,E
+6,Wii Sports,Sports,Wii,2006,Nintendo,82.88,E
+7,Call of Duty: Modern Warfare 3,Shooter,X360,2011,Activision,14.73,M
+8,The Legend of Zelda: Breath of the Wild,Adventure,Switch,2017,Nintendo,18.22,E10+
+9,FIFA 18,Sports,PS4,2017,EA Sports,11.8,E
+10,Animal Crossing: New Horizons,Simulation,Switch,2020,Nintendo,32.63,E
+11,The Witcher 3: Wild Hunt,RPG,PS4,2015,CD Projekt,10.8,M
+12,Mario Kart 8 Deluxe,Racing,Switch,2017,Nintendo,24.77,E
+13,Fortnite,Battle Royale,PC,2017,Epic Games,9.3,T
+14,Overwatch,Shooter,PS4,2016,Blizzard,12.52,T
+15,Halo 3,Shooter,X360,2007,Microsoft,12.13,M
+16,Pac-Man,Arcade,Atari 2600,1982,Namco,7.81,E
+17,The Elder Scrolls V: Skyrim,RPG,X360,2011,Bethesda,13.62,M
+18,The Sims 4,Simulation,PC,2014,Electronic Arts,9.45,T
+19,Super Smash Bros. Ultimate,Fighting,Switch,2018,Nintendo,23.84,E10+
+20,Among Us,Party,PC,2018,InnerSloth,3.2,E10+
+21,Tetris Effect,Puzzle,PS4,2018,Enhance,1.2,E
+22,Street Fighter II,Fighting,SNES,1992,Capcom,6.3,T
+23,Final Fantasy VII,RPG,PS,1997,Square,9.72,T
+24,Red Dead Redemption 2,Action,PS4,2018,Rockstar Games,14.0,M
+25,Doom,Shooter,PC,1993,id Software,3.0,M
+26,The Last of Us,Action,PS3,2013,Naughty Dog,8.15,M
+27,Pokemon Gold/Silver,RPG,GB,1999,Nintendo,23.1,E
+28,Super Mario Odyssey,Platform,Switch,2017,Nintendo,18.99,E10+
+29,Assassin's Creed Valhalla,Action,PS4,2020,Ubisoft,7.2,M
+30,Resident Evil 2,Horror,PS,1998,Capcom,4.96,M
+31,League of Legends,MOBA,PC,2009,Riot Games,0.0,T
+32,Counter-Strike: Global Offensive,Shooter,PC,2012,Valve,25.0,M
+33,God of War,Action,PS4,2018,Sony,12.0,M
+34,Dark Souls III,RPG,PS4,2016,Bandai Namco,10.16,M
+35,Half-Life 2,Shooter,PC,2004,Valve,12.0,M
+36,Uncharted 4: A Thief's End,Action,PS4,2016,Naughty Dog,8.7,T
+37,Gran Turismo 3: A-Spec,Racing,PS2,2001,Sony,14.89,E
+38,Super Mario 64,Platform,N64,1996,Nintendo,11.89,E
+39,Call of Duty: Black Ops,Shooter,PS3,2010,Activision,12.73,M
+40,World of Warcraft,MMORPG,PC,2004,Blizzard,14.0,T
+41,Pokemon Diamond/Pearl,RPG,DS,2006,Nintendo,17.67,E
+42,Mario Kart Wii,Racing,Wii,2008,Nintendo,37.14,E
+43,Gears of War,Shooter,X360,2006,Microsoft,6.0,M
+44,FIFA 20,Sports,PS4,2019,EA Sports,10.0,E
+45,Resident Evil 7: Biohazard,Horror,PS4,2017,Capcom,8.5,M
+46,Donkey Kong Country,Platform,SNES,1994,Nintendo,9.3,E
+47,Sonic the Hedgehog,Platform,Genesis,1991,Sega,15.0,E
+48,The Legend of Zelda: Ocarina of Time,Adventure,N64,1998,Nintendo,7.6,E
+49,Metal Gear Solid,Action,PS,1998,Konami,6.0,M
+50,Baldur's Gate 3,RPG,PC,2023,Larian Studios,5.2,M
+51,Cyberpunk 2077,RPG,PS4,2020,CD Projekt,13.7,M
+52,Monster Hunter: World,Action,PS4,2018,Capcom,16.1,T
+53,Hollow Knight,Metroidvania,PC,2017,Team Cherry,2.8,E10+
+54,BioShock,Shooter,X360,2007,2K Games,4.0,M
+55,Portal 2,Puzzle,PC,2011,Valve,4.0,E10+
+56,Rocket League,Sports,PS4,2015,Psyonix,10.5,E
+57,Fallout 4,RPG,PS4,2015,Bethesda,13.51,M
+58,Crash Bandicoot,Platform,PS,1996,Sony,6.82,E
+59,Elden Ring,Action,PS5,2022,Bandai Namco,16.6,M
+60,Mortal Kombat 11,Fighting,PS4,2019,Warner Bros,8.0,M
+61,Terraria,Sandbox,PC,2011,Re-Logic,17.2,T
+62,Horizon Zero Dawn,Action,PS4,2017,Sony,10.0,T
+63,Cuphead,Run and gun,PC,2017,Studio MDHR,6.0,E10+
+64,Dead Space,Horror,X360,2008,EA,2.0,M
+65,Sekiro: Shadows Die Twice,Action,PS4,2019,Activision,5.0,M
+66,Mass Effect 2,RPG,X360,2010,EA,4.5,M
+67,Dragon Age: Origins,RPG,PS3,2009,EA,3.2,M
+68,Destiny 2,Shooter,PS4,2017,Bungie,4.0,T
+69,Diablo III,RPG,PC,2012,Blizzard,20.0,M
+70,Spider-Man,Action,PS4,2018,Sony,13.2,T
+71,Starfield,RPG,PC,2023,Bethesda,7.0,M
+72,Apex Legends,Battle Royale,PS4,2019,EA,100.0,T
+73,Fall Guys,Party,PS4,2020,Devolver Digital,10.0,E
+74,Stardew Valley,Simulation,PC,2016,ConcernedApe,15.0,E10+
+75,The Last of Us Part II,Action,PS4,2020,Naughty Dog,10.0,M
